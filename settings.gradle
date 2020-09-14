@@ -1,0 +1,3 @@
+include ':logprinter-lib'
+include ':app'
+rootProject.name = "logprinter"
